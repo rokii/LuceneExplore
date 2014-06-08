@@ -2,5 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="G:/project/lib/lucene-4.8.1/core/lucene-core-4.8.1.jar" sourcepath="G:/project/lib/lucene-4.8.1-src/lucene-4.8.1/core/src/java">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/project/lib/lucene-4.8.1/queries/lucene-queries-4.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/project/lib/lucene-4.8.1/queryparser/lucene-queryparser-4.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/project/lib/lucene-4.8.1/codecs/lucene-codecs-4.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/project/lib/lucene-4.8.1/analysis/common/lucene-analyzers-common-4.8.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
